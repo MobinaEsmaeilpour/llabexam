@@ -16,5 +16,5 @@ layout: default
 ## رشته کامپیوتر
 بالاخره تونستم تو رشته ای که خیلی علاقه داشنم درس بخونم و این ترم با همه سختی ها و مشکلات بهترین دوران تحصیل من بود.
 <!-- ![Octocat](https://github.githubassets.com/assets/img/b.jpg) -->
-![Octocat](/assets/images/b.jpg)
+![Octocat](/assets/imag/b.jpg)
 <!-- ![alt text](../assets/img/b.jpg "CE") -->

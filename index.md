@@ -2,19 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#خراب شدن سیستم
+بدترین خاطره ی من این بود که زمانی که داشتم مطلب مفید و آموزنده یاد میگرفتم سیستم من خراب شد و من یه مدت بدون سیستم بودم بعد یه مدت تونستم سیستمی محیا کنم و اون هفنه خیلی تحت فشار بودم
 
-## Header 2
+#پیدا کردن دوستای جدید
+تونستم با آدمی خوبی آشنا بشم و کمک زیادی به من در ترم کردن.
+
+#رشته کامپیوتر
+بالاخره تونستم تو رشته ای که خیلی علاقه داشنم درس بخونم و این ترم با همه سختی ها و مشکلات بهترین دوران تحصیل من بود.
+
+
+![alt text](../assets/images/b.jpg "CE")
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -120,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
